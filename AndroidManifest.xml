@@ -13,9 +13,10 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
+<!--         变量，渠道包 -->
         <meta-data
             android:name="UMENG_CHANNEL"
-            android:value="myweb" />
+            android:value="${UMENG_CHANNEL_VALUE}" />
         <activity
             android:name="com.iweigame.demo.MainActivity"
             android:label="@string/app_name" >
