@@ -1,0 +1,1 @@
+D:\new_workspace\FristGradleDemo\build\intermediates\classes-proguard\release\classes.jar

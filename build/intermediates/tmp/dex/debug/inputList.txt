@@ -1,0 +1,2 @@
+D:\new_workspace\FristGradleDemo\build\intermediates\classes\debug
+D:\new_workspace\FristGradleDemo\build\intermediates\pre-dexed\debug\android-support-v4-78b1974dcbcba7140211dc01e7e9e9fdd0d3fc7d.jar

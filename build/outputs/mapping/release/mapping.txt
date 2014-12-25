@@ -1,0 +1,2 @@
+com.iweigame.demo.MainActivity -> com.iweigame.demo.MainActivity:
+    void onCreate(android.os.Bundle) -> onCreate
